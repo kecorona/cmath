@@ -234,9 +234,10 @@ input[type="radio"]:checked + label span {
 	margin-bottom:0;
 }
 #calculators_home{
+	top: 75px;
 	z-index:99;
 	position:absolute;
-	bottom:200px;
+	bottom:50px;
 	left:0;
 	width:100%;
 	text-align:center;
